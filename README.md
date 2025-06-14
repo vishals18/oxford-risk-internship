@@ -8,9 +8,8 @@ This repository contains my submission for the **Behavioural/Data Science Intern
 
 ## 📁 Contents
 
-- `analysis.ipynb` – Main notebook containing data extraction, transformation, and EDA
+- `analysis.ipynb` – Main notebook containing data extraction, transformation, EDA and visualisations
 - `insights_report.docx` – Summary of insights from the analysis in a non-technical format
-- `graphs/` – Folder with exported visualisations used in the insights report
 - `README.md` – This file
 
 ---
