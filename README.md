@@ -57,7 +57,6 @@ For detailed plots and deeper analysis, please refer to the `insights_report.doc
 ## Submission
 
 This project was submitted to Oxford Risk as part of the application for the Summer 2025 internship.  
-I currently hold a valid **UK post-study work visa until February 2027**.
 
 ---
 
