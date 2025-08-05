@@ -1,12 +1,12 @@
 # Oxford Risk Internship Task – Summer 2025
 
-## 📊 Overview
+## Overview
 
 This repository contains my submission for the **Behavioural/Data Science Intern – Summer 2025** role at Oxford Risk. The goal of the task was to analyse financial asset data alongside personality traits to identify meaningful behavioural patterns using Python.
 
 ---
 
-## 📁 Contents
+## Contents
 
 - `analysis.ipynb` – Main notebook containing data extraction, transformation, EDA and visualisations
 - `insights_report.docx` – Summary of insights from the analysis in a non-technical format
@@ -14,7 +14,7 @@ This repository contains my submission for the **Behavioural/Data Science Intern
 
 ---
 
-## 🔗 Dataset Sources
+## Dataset Sources
 
 1. **Personality Data (CSV from GitHub)**  
    [GitHub CSV Link](https://raw.githubusercontent.com/karwester/behavioural-finance-task/refs/heads/main/personality.csv)
@@ -25,7 +25,7 @@ This repository contains my submission for the **Behavioural/Data Science Intern
 
 ---
 
-## ✅ Key Task Requirements
+## Key Task Requirements
 
 - Combine the personality and asset datasets
 - Identify the person with the **highest total asset value in GBP**
@@ -34,18 +34,18 @@ This repository contains my submission for the **Behavioural/Data Science Intern
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 - The individual with the highest total assets in GBP has a **Risk Tolerance score of 0.555**
 - Higher impulsivity is positively correlated with higher asset value
 - Confidence and risk tolerance are strongly correlated personality traits
-- Currency standardisation was essential due to large variation in values (e.g. JPY vs GBP)
+- Currency standardisation was essential due to a large variation in values (e.g. JPY vs GBP)
 
 For detailed plots and deeper analysis, please refer to the `insights_report.docx` and visualisation graphs.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python 3.11
 - pandas, numpy, plotly, seaborn, matplotlib
@@ -54,13 +54,11 @@ For detailed plots and deeper analysis, please refer to the `insights_report.doc
 
 ---
 
-## 📬 Submission
+## Submission
 
 This project was submitted to Oxford Risk as part of the application for the Summer 2025 internship.  
 I currently hold a valid **UK post-study work visa until February 2027**.
 
 ---
 
-**Author**: Vishal Subramani  
-📧 vishal.28101999@gmail.com  
-📍 Bristol, UK  
+Vishal Subramani   
